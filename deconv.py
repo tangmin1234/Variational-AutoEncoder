@@ -10,6 +10,8 @@
 # limitations under the License.
 """A quick hack to try deconv out."""
 
+# this file is borrowed from repository ikostrikov/TensorFlow-VAE-GAN-DRAW at www.github.com
+
 import collections
 
 import tensorflow as tf
